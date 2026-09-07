@@ -1,4 +1,4 @@
-# katas-java:
+# Katas-java:
 
 This repository is where I record my learning path toward Java engineering excellence.
 
@@ -8,4 +8,4 @@ I'm a woman transitioning careers, determined to become the best Java engineer I
 
 ## Where this is going:
 
-Everything here is building toward software engineering in Java, adapted to an era shaped by AI - where writing code alone isn't enough. It takes more than that. 
+Everything here is building toward software engineering in Java, adapted to an era shaped by AI - where writing code alone isn't enough. It takes more than that. Humans always wins!
